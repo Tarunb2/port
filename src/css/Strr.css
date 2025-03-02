@@ -1,0 +1,35 @@
+
+.uuu {
+    height: 100vh;
+    width: 100%;
+    background-color: #111;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.box {
+    height: 200px;
+    width: 200px;
+    /* background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%); */
+    border-radius: 10px;
+}
+
+.tarun {
+    height: 30px;
+    width: 200px;
+    background: linear-gradient(rgb(90, 68, 72), rgb(201, 54, 84));
+    border: none;
+    border-radius: 20px;
+}
+
+.tarun:active {
+    scale: 0.96;
+}
+.tarun{
+    background-color: blue ;
+    height: 2rem;
+    
+}
